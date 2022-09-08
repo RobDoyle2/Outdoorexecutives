@@ -1,8 +1,9 @@
-title:              Clean Blog
-email:              your-email@example.com
-description:        A Blog Theme by Start Bootstrap
-author:             Start Bootstrap
-baseurl:            "/startbootstrap-clean-blog-jekyll"
+title:              CallTheJasmin
+email:              Jasmin@CallTheJasmin.com
+description:        Offering Midwife services to the South East
+author:             Jasmin Doyle
+# baseurl:            "/startbootstrap-clean-blog-jekyll"
+baseurl: "" # the subpath of your site, e.g. /blog
 url:                "https://startbootstrap.github.io"
 
 # Social Profiles
